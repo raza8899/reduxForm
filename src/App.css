@@ -1,38 +1,41 @@
-.App {
-  text-align: center;
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.footer{
+  background-color: #1A2033;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+  color:white
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar-dark {
+  background-color: #1A2033;
+}
+.jumbotron {
+  padding:70px 30px 70px 30px !important;
+  margin:0px auto !important;
+  background: #00458B !important;
+  color:floralwhite !important;
+}
+.reactCard{
+  background: #3FD2C7 !important;
+  color:#00458B
+}
+.info{
+  font-size: large;
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.form-react{
+  background-color :#99DDFF;
 }
