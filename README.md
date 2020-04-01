@@ -1,4 +1,6 @@
 ## Demo Version : https://gallant-hypatia-454e75.netlify.com/
+
+#### I have made a responsive form using React,React-Redux,Reactstrap and some other libraries. It can be used as a template and after some basic modifications it's good to go. 
 ## Available Scripts
 
 In the project directory, you can run: 
